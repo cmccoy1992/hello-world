@@ -1,2 +1,2 @@
 # hello-world
-This repository is for Code:You practive.
+This repository is for Code:You practice.
